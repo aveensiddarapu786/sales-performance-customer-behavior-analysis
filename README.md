@@ -12,9 +12,13 @@ This project analyzes sales data to identify key revenue drivers, regional perfo
 ## 🛠 Tools Used
 - SQL Server
 - Power BI
+  
+## Concepts
+- Data Preparation
+- Data cleaning
 - Data Modeling
 - DAX
-
+  
 ## 📌 Key Insights
 - United States and Australia are top revenue contributors
 - No region shows consistent decline
