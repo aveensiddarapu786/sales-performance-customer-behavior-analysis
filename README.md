@@ -13,7 +13,7 @@ This project analyzes sales data to identify key revenue drivers, regional perfo
 - SQL Server
 - Power BI
   
-## Concepts
+##   Concepts
 - Data Preparation
 - Data cleaning
 - Data Modeling
