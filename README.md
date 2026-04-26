@@ -22,9 +22,23 @@ This project analyzes sales data to identify key revenue drivers, regional perfo
 - Bikes category contributes ~96% of total sales
 
 ## 📈 Dashboard Pages
-1. Executive Dashboard
+1. Executive Summary
 2. Regional Trends
-3. Customer Segmentation
+3. Customer Behaviour
+
+## Dashboard Pages Paths
+![Page 1](images/page1_executive_summary.png)
+![Page 2](images/page2_regional_trends.png)
+![Page 3](images/page3_customer_behaviour.png)
+
+## GitHub repo structure 
+datasets/
+docs/
+images/
+powerbi/
+sql/
+README
+--------------------------------------------------------END----------------------------------------------------------------
 
 
 
