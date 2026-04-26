@@ -25,3 +25,8 @@ This project analyzes sales data to identify key revenue drivers, regional perfo
 1. Executive Dashboard
 2. Regional Trends
 3. Customer Segmentation
+
+
+
+
+
