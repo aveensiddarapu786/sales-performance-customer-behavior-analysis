@@ -18,6 +18,7 @@ This project analyzes sales data to identify key revenue drivers, regional perfo
 - Data cleaning
 - Data Modeling
 - DAX
+- Visualization
   
 ## 📌 Key Insights
 - United States and Australia are top revenue contributors
