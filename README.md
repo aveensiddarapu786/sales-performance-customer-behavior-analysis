@@ -27,7 +27,7 @@ This project analyzes sales data to identify key revenue drivers, regional perfo
 3. Customer Behaviour
 
 ## Dashboard Pages Paths
-![Page 1](images/page1_executive_summary.png)
+![Page 1](images/page1_excutive_summary.png)
 ![Page 2](images/page2_regional_trends.png)
 ![Page 3](images/page3_customer_behaviour.png)
 
@@ -38,7 +38,7 @@ images/
 powerbi/
 sql/
 README
---------------------------------------------------------END----------------------------------------------------------------
+
 
 
 
