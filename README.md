@@ -23,7 +23,7 @@ This project analyzes sales data to identify key revenue drivers, regional perfo
 ## Dashboard Pages
 1. Executive Summary
 2. Regional Trends
-3. Customer Behaviour
+3. Customer Behavior
 
 ![Page 1](images/page1_excutive_summary.png)
 ![Page 2](images/page2_regional_trends.png)
