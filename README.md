@@ -35,6 +35,9 @@ This project analyzes sales data to identify key revenue drivers, regional perfo
 - Majority customers are low-value, indicating lack of strong loyalty base
 - Bikes category contributes ~96% of total sales
 
+## Business Impact
+Enabled identification of revenue drivers, regional trends, and customer behavior to support data-driven decision making.
+
 ## GitHub repo structure 
 - datasets/
 - docs/
