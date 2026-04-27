@@ -36,12 +36,12 @@ This project analyzes sales data to identify key revenue drivers, regional perfo
 - Bikes category contributes ~96% of total sales
 
 ## GitHub repo structure 
-datasets/
-docs/
-images/
-powerbi/
-sql/
-README
+- datasets/
+- docs/
+- images/
+- powerbi/
+- sql/
+- README.md
 
 
 
