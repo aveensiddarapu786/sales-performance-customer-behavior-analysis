@@ -27,7 +27,7 @@ This project analyzes sales data to identify key revenue drivers, regional perfo
 
 ![Page 1](images/page1_excutive_summary.png)
 ![Page 2](images/page2_regional_trends.png)
-![Page 3](images/page3_customer_behaviour.png)
+![Page 3](images/page3_customer_behavior.png)
 
 ## Key Insights
 - United States and Australia are top revenue contributors
