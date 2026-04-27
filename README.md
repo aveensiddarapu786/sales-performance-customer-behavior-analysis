@@ -1,26 +1,26 @@
 
 # Sales Performance & Customer Behavior Analysis Dashboard
 
-## 📊 Project Overview
+## Project Overview
 This project analyzes sales data to identify key revenue drivers, regional performance trends, and customer purchasing behavior.
 
-## 🎯 Objectives
+## Objectives
 - Identify top customers, products, and regions
 - Analyze regional sales trends over time
 - Understand customer purchasing behavior and segmentation
 
-## 🛠 Tools Used
+## Tools Used
 - SQL Server
 - Power BI
   
-##   Concepts
+## Concepts
 - Data Preparation
 - Data cleaning
 - Data Modeling
 - DAX
 - Visualization
   
-## 📈 Dashboard Pages
+## Dashboard Pages
 1. Executive Summary
 2. Regional Trends
 3. Customer Behaviour
@@ -29,7 +29,7 @@ This project analyzes sales data to identify key revenue drivers, regional perfo
 ![Page 2](images/page2_regional_trends.png)
 ![Page 3](images/page3_customer_behaviour.png)
 
-## 📌 Key Insights
+## Key Insights
 - United States and Australia are top revenue contributors
 - No region shows consistent decline
 - Majority customers are low-value, indicating lack of strong loyalty base
