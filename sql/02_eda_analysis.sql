@@ -83,7 +83,7 @@ FROM gold.fact_sales
 GROUP BY customer_key;
 
 		--Identify Customer Types
-		--1)Premium Customers (Customers with highest sales with less orders)
+		--1)Premium Customers (Customers with less orders but highest sales)
 SELECT TOP 10
 	*
 FROM (
@@ -112,7 +112,7 @@ ORDER BY
 	total_sales DESC;
 
 
-		--3)Low Value customers (Customers with highest orders but less sales)
+		--3)Low Value customers (Customers with less orders and less sales)
 SELECT TOP 10
 	*
 FROM (
